@@ -1,10 +1,12 @@
 # How to use:
 
 Upload Images: Click "Select Images" to upload up to 4 product images. You'll see thumbnails appear below the upload area.
-Remove Images (Optional): If you want to remove an image, click the "X" button on any thumbnail.
-Ask a Question: Type your question in the text field (e.g., "How many books are in this image?" or "Are there any defects in this product?").
-Choose Response Type:
 
+Remove Images (Optional): If you want to remove an image, click the "X" button on any thumbnail.
+
+Ask a Question: Type your question in the text field (e.g., "How many books are in this image?" or "Are there any defects in this product?").
+
+Choose Response Type:
 By default, the app uses mock responses (pre-written examples)
 To use real AI analysis, toggle "Use OpenAI API" and enter your OpenAI API key
 
