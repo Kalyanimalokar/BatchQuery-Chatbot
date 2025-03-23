@@ -6,12 +6,12 @@
 
 - Ask a Question: Type your question in the text field (e.g., "How many books are in this image?" or "Are there any defects in this product?").
 
-Choose Response Type:
-By default, the app uses mock responses (pre-written examples)
+- Choose Response Type:
+By default, the app uses mock responses (pre-written examples).
 To use real AI analysis, toggle "Use OpenAI API" and enter your OpenAI API key
 
 
-Submit Your Query: Click "Analyze Images" to process your request.
+- Submit Your Query: Click "Analyze Images" to process your request.
 View Results: Scroll down to see the responses for each image, displayed side by side with the images themselves.
 
 
