@@ -1,5 +1,7 @@
 # How to use:
 
+- Visit: [BatchQuery-Chatbot](https://batch-query-chatbot.vercel.app/)
+
 - Upload Images: Click "Select Images" to upload up to 4 product images. You'll see thumbnails appear below the upload area.
 
 - Remove Images (Optional): If you want to remove an image, click the "X" button on any thumbnail.
