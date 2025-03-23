@@ -1,4 +1,4 @@
-#How to use:
+# How to use:
 
 Upload Images: Click "Select Images" to upload up to 4 product images. You'll see thumbnails appear below the upload area.
 Remove Images (Optional): If you want to remove an image, click the "X" button on any thumbnail.
